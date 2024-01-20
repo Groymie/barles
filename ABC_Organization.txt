@@ -1,0 +1,64 @@
+ABC Organization
+	Selling through:
+		Amazon	12 - 15% commission
+		Ebay	12 - 15% commission
+		etc.
+
+What company wants:
+	Build webstore
+		List all products distributed across online retailers on said website
+			Products should be sorted by category and customer should be able to select category
+			Items that sold slowly through online retailers should be listed as "on sale" on this website
+				Discounts should be 25%, 50%, or 75%
+
+	We want customers to subscribe to the website
+
+	Marketing
+		Ship thank you card with every shipment that was ordered through an online retailer
+			Card should invite each customer to shop directly from their website in the future
+
+Why the company wants this:
+	to increase sales and get customers to purchase directly from them, avoiding the 12-15% commission by selling through online retailers
+
+Estimated Cost:
+	$45,000
+
+Estimated timeframe for implementation:
+	6 months
+
+Estimated benefits:
+	50% increase in sales
+
+Risks
+	1. Will customers be willing to sign up on the website (customer adoption)
+	2. Will the project increase sales as projected
+	3. Legal Risk
+		Security breaches compromising customer data may lead to lawsuits
+	4. Storage and shipping
+		Amazon handles storage and shipping, and they also handle the associated risks including
+			lost or damaged shipments
+			Return and restock costs
+			Employee Salaries
+				Associated Risks with employees
+					Injured Employees
+					Unexpected call outs
+			Rental Fees for storage units
+			Insurance
+	5. Changes in market costs of supporting services
+		Server costs
+	6. Consequences for not completing project in specified timeframe
+		results in increased costs or incomplete project
+	7. Subscription engagement
+		do customers respond to marketing campaigns
+		do they engage with your brands
+
+Additional Questions:
+	Who are the stakeholders
+		What is the company structure
+		Who are we working with in the company
+	How much does the company make, gross and profits?
+	The estimated cost is 45,000 dollars
+		What does this cost cover?
+		What has not been covered (warehouse, employees, permits)?
+	What kind of market research has been done?
+		
